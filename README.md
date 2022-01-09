@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
-This is a Circuit Breaker simple example using [Opossum][https://github.com/nodeshift/opossum]
+This is a Circuit Breaker simple example using [Opossum](https://github.com/nodeshift/opossum)
 
 ## Authors
 
@@ -43,7 +43,7 @@ To develop this project, we used the following technologies.
 - [TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - [Node.js](https://nodejs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)- Text editor with following plugins installed: [DotENV](https://github.com/mikestead/vscode-dotenv), [ESLint](https://github.com/Microsoft/vscode-eslint), [GitLens](https://github.com/eamodio/vscode-gitlens) e [vscode-icons](https://github.com/vscode-icons/vscode-icons).
-- [Opossum][https://github.com/nodeshift/opossum]
+- [Opossum](https://github.com/nodeshift/opossum)
 
 # References
 
