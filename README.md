@@ -33,7 +33,8 @@ $ git clone https://github.com/lucsimao/testlink-facade-api
 - For yarn users:
 
 ```
-$ yarn install
+  $ yarn install
+  $ yarn start
 ```
 
 # Tecnologias
